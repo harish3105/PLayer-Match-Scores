@@ -1,0 +1,6 @@
+GET http://localhost:3000/maatches/:matchId/players/
+
+#####
+
+GET http://localhost:3000/matches/:matchId/
+
